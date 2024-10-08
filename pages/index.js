@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Frase para o desafio do curso.dev</h1>
+    return <h1>Prática de CD(Continuos Deployment) para curso.dev</h1>
 }
 
 export default Home;
